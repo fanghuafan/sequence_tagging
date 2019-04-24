@@ -77,3 +77,10 @@ def attention(inputs, attention_size, time_major=False, return_alphas=False):
         return output
     else:
         return output, alphas
+
+    
+# use attention model
+# # Attention layer
+# with tf.variable_scope('Attention_layer'):
+#     output, alphas = attention(output, self.config.ATTENTION_SIZE, return_alphas=True)
+#     tf.summary.histogram('alphas', alphas)
