@@ -1,0 +1,576 @@
+
+
+581 ﹞ 680 ﹞ 682
+
+
+M16 Miniatur IP40 M16 Miniature IP40
+Kabelsteckverbinder
+? Schraubverriegelung M16
+? 2 - 24-polig
+? Schutzart IP40 1)
+? L?t-/Crimp-/Schraubklemmanschluss
+? Durchmesser 17,2 mm/17,5 mm/18,5 mm/20 mm
+? Schirmbare Ausf邦hrungen
+? Nach DIN EN 61076-2-106
+Flanschsteckverbinder
+? Schraubverriegelung M16
+? 2 - 24-polig
+? Schutzart IP40 1)
+? L?t-/Tauchl?t-/Crimpanschluss
+? Durchmesser 20 mm
+? Schirmbar
+? Nach DIN EN 61076-2-106
+Cable Connectors
+? Screw termination M16
+? 2 - 24 contacts
+? Degree of protection IP40 1) 
+? Solder/crimp/screw clamp termination
+? Diameter 17.2 mm/17.5 mm/18.5 mm/20 mm
+? Shieldable versions
+? Acc. to DIN EN 61076-2-106
+Panel Mount Connectors
+? Screw termination M16
+? 2 - 24 contacts
+? Degree of protection IP40 1) 
+? Solder/dip solder/crimp termination
+? Diameter 20 mm
+? Shieldable
+? Acc. to DIN EN 61076-2-106
+
+
+Ma?zeichnung / Drawing
+	~ 72	~ 72
+
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm99 2001 00 0299 2001 09 0226-8 mm99 2001 02 0299 2001 92 023 DIN4-6 mm99 2005 00 0399 2005 09 033 DIN6-8 mm99 2005 02 0399 2005 92 0344-6 mm99 2009 00 0499 2009 09 0446-8 mm99 2009 02 0499 2009 92 0454-6 mm99 2013 00 0599 2013 09 0556-8 mm99 2013 02 0599 2013 92 055 (Stereo)4-6 mm99 2017 00 0599 2017 09 055 (Stereo)6-8 mm99 2017 02 0599 2017 92 056 DIN4-6 mm99 2021 00 0699 2021 09 066 DIN6-8 mm99 2021 02 0699 2021 92 0674-6 mm99 2025 00 0799 2025 09 0776-8 mm99 2025 02 0799 2025 92 077 DIN4-6 mm99 2581 00 07- 1)7 DIN6-8 mm- 1)- 1)8 DIN4-6 mm99 2061 00 0899 2061 09 088 DIN6-8 mm99 2061 02 0899 2061 92 08124-6 mm-99 2029 00 12126-8 mm-99 2029 02 12144-6 mm-99 2033 00 14146-8 mm-99 2033 02 14164-6 mm-99 2037 00 16166-8 mm-99 2037 02 16194-6 mm-99 2041 00 19196-8 mm-99 2041 02 19244-6 mm- -246-8 mm-99 2045 02 24Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN1214161924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartl?ten/solderTerminationAnschlussquerschnitt max. 0,75 mm2 (max. AWG 20)max. 0,25 mm2 (max. AWG 24)0,14 mm2 (26)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 2)Pollution degree邦berspannungskategorieI (II) 2)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuZn (Messing/brass)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing	1) Auf Anfrage./ 1) Upon request.              2) 	2) 
+
+Ma?zeichnung / Drawing
+	~ 70	~ 70
+
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm99 2001 10 0299 2001 19 0226-8 mm99 2001 20 0299 2001 29 023 DIN4-6 mm99 2005 10 03- 1)3 DIN6-8 mm99 2005 20 0399 2005 29 0344-6 mm99 2009 10 04- 1)46-8 mm99 2009 20 0499 2009 29 0454-6 mm99 2013 10 0599 2013 19 0556-8 mm99 2013 20 0599 2013 29 055 (Stereo)4-6 mm99 2017 10 05- 1)5 (Stereo)6-8 mm99 2017 20 05- 1)6 DIN4-6 mm99 2021 10 0699 2021 19 066 DIN6-8 mm99 2021 20 0699 2021 29 0674-6 mm99 2025 10 0799 2025 19 0776-8 mm99 2025 20 0799 2025 29 077 DIN4-6 mm- 1)- 1)7 DIN6-8 mm- 1)- 1)8 DIN4-6 mm99 2061 10 08- 1)8 DIN6-8 mm99 2061 20 0899 2061 29 08124-6 mm-99 2029 10 12126-8 mm-99 2029 20 12144-6 mm-99 2033 10 14146-8 mm-99 2033 20 14164-6 mm-99 2037 10 16166-8 mm-99 2037 20 16194-6 mm-99 2041 10 19196-8 mm-99 2041 20 19244-6 mm--246-8 mm- 99 2045 20 24Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN1214161924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartl?ten/solderTerminationAnschlussquerschnitt max. 0,75 mm2 (max. AWG 20)max. 0,25 mm2 (max. AWG 24)0,14 mm2 (26)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 2)Pollution degree邦berspannungskategorieI (II) 2)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuZn (Messing/brass)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing1) Auf Anfrage./ 1) Upon request.              2) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 2) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+Ma?zeichnung / Drawing
+	~ 70	~ 70
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletBestell-Nr.
+Ordering-No.Polzahl ContactsKabeldurchlass Cable outletBestell-Nr.
+Ordering-No.3 DIN4-6 mm99 2005 210 033 DIN6-8 mm99 2005 220 0344-6 mm99 2009 210 0446-8 mm99 2009 220 0454-6 mm99 2013 210 0556-8 mm99 2013 220 05Technische Daten / Specifications
+Polzahl3 DIN45Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartschrauben/screwTerminationAnschlussquerschnitt 0,25 mm2 -1,5 mm2 (AWG 24-AWG 16)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)Rated voltageBemessungs-Sto?spannung1500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次Contact resistanceMaterial KontaktCuZn (Messing/brass)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing	1) 	1) 
+Ma?zeichnung / Drawing
+	~ 70	~ 70
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletBestell-Nr.
+Ordering-No.Polzahl ContactsKabeldurchlass Cable outletBestell-Nr.
+Ordering-No.4 4-6 mm99 2009 700 044 6-8 mm99 2009 702 0454-6 mm99 2013 700 0556-8 mm99 2013 702 056 DIN4-6 mm99 2021 700 066 DIN6-8 mm99 2021 702 0674-6 mm99 2025 700 0776-8 mm99 2025 702 078 DIN4-6 mm99 2061 700 088 DIN6-8 mm99 2061 702 08Technische Daten / Specifications
+Polzahl456 DIN7 8 DINNumber of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartcrimpen/crimpTerminationAnschlussquerschnitt 4-6 pol. 0,14 mm2 -1,0 mm2 (AWG 26-AWG 18), 7+8 pol. 0,14 mm2 -0,75 mm2 (AWG 26-AWG 20)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 100 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 2)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)5 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次Contact resistanceMaterial Kontakt-Material of contactKontaktoberfl?cheSiehe Crimpkontakte Seite 204./See crimp contacts page 204.Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housingMa?zeichnung / Drawing
+	~ 72	~ 72
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm99 2002 00 0299 2002 09 0226-8 mm99 2002 02 0299 2002 92 023 DIN4-6 mm99 2006 00 0399 2006 09 033 DIN6-8 mm99 2006 02 0399 2006 92 0344-6 mm99 2010 00 0499 2010 09 0446-8 mm99 2010 02 0499 2010 92 0454-6 mm99 2014 00 0599 2014 09 0556-8 mm99 2014 02 0599 2014 92 055 (Stereo)4-6 mm99 2018 00 0599 2018 09 055 (Stereo)6-8 mm99 2018 02 0599 2018 92 056 DIN4-6 mm99 2022 00 0699 2022 09 066 DIN6-8 mm99 2022 02 0699 2022 92 0674-6 mm99 2026 00 0799 2026 09 0776-8 mm99 2026 02 0799 2026 92 077 DIN4-6 mm99 2582 00 07- 1)7 DIN6-8 mm- 1)- 1)8 DIN4-6 mm99 2062 00 0899 2062 09 088 DIN6-8 mm99 2062 02 0899 2062 92 08124-6 mm-99 2030 00 12126-8 mm-99 2030 02 12144-6 mm-99 2034 00 14146-8 mm-99 2034 02 14164-6 mm-99 2038 00 16166-8 mm-99 2038 02 16194-6 mm-99 2042 00 19196-8 mm-99 2042 02 19244-6 mm- -246-8 mm-99 2046 02 24Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN1214161924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartl?ten/solderTerminationAnschlussquerschnitt max. 0,75 mm2 (max. AWG 20)max. 0,25 mm2 (max. AWG 24)0,14 mm2 (26)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 2)Pollution degree邦berspannungskategorieI (II) 2)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing	1) Auf Anfrage./ 1) Upon request.              2) 	2) 
+Ma?zeichnung / Drawing
+	~ 70	~ 70
+
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm99 2002 10 0299 2002 19 0226-8 mm99 2002 20 0299 2002 29 023 DIN4-6 mm99 2006 10 0399 2006 19 033 DIN6-8 mm99 2006 20 0399 2006 29 0344-6 mm99 2010 10 04- 1)46-8 mm99 2010 20 0499 2010 29 0454-6 mm99 2014 10 0599 2014 19 0556-8 mm99 2014 20 0599 2014 29 055 (Stereo)4-6 mm99 2018 10 05- 1)5 (Stereo)6-8 mm99 2018 20 05- 1)6 DIN4-6 mm99 2022 10 0699 2022 19 066 DIN6-8 mm99 2022 20 0699 2022 29 0674-6 mm99 2026 10 0799 2026 19 0776-8 mm99 2026 20 0799 2026 29 077 DIN4-6 mm- 1)- 1)7 DIN6-8 mm- 1)- 1)8 DIN4-6 mm99 2062 10 08- 1)8 DIN6-8 mm99 2062 20 0899 2062 29 08124-6 mm-99 2030 10 12126-8 mm-99 2030 20 12144-6 mm-99 2034 10 14146-8 mm-99 2034 20 14164-6 mm-99 2038 10 16166-8 mm-99 2038 20 16194-6 mm-99 2042 10 19196-8 mm-99 2042 20 19244-6 mm--246-8 mm- 99 2046 20 24Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN1214161924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartl?ten/solderTerminationAnschlussquerschnitt max. 0,75 mm2 (max. AWG 20)max. 0,25 mm2 (max. AWG 24)0,14 mm2 (26)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 2)Pollution degree邦berspannungskategorieI (II) 2)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing1) Auf Anfrage./ 1) Upon request.              2) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 2) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+Ma?zeichnung / Drawing
+	~ 70	~ 70
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletBestell-Nr.
+Ordering-No.Polzahl ContactsKabeldurchlass Cable outletBestell-Nr.
+Ordering-No.3 DIN4-6 mm99 2006 210 033 DIN6-8 mm99 2006 220 0344-6 mm99 2010 210 0446-8 mm99 2010 220 0454-6 mm99 2014 210 0556-8 mm99 2014 220 05Technische Daten / Specifications
+Polzahl3 DIN45Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartschrauben/screwTerminationAnschlussquerschnitt 0,25 mm2 -1,5 mm2 (AWG 24-AWG 16)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)Rated voltageBemessungs-Sto?spannung1500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing	1) 	1) 
+Ma?zeichnung / Drawing
+	~ 70	~ 70
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletBestell-Nr.
+Ordering-No.Polzahl ContactsKabeldurchlass Cable outletBestell-Nr.
+Ordering-No.4 4-6 mm99 2010 700 044 6-8 mm99 2010 702 0454-6 mm99 2014 700 0556-8 mm99 2014 702 056 DIN4-6 mm99 2022 700 066 DIN6-8 mm99 2022 702 0674-6 mm99 2026 700 0776-8 mm99 2026 702 078 DIN4-6 mm99 2062 700 088 DIN6-8 mm99 2062 702 08Technische Daten / Specifications
+Polzahl456 DIN7 8 DINNumber of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartcrimpen/crimpTerminationAnschlussquerschnitt 4-6 pol. 0,14 mm2 -1,0 mm2 (AWG 26-AWG 18), 7+8 pol. 0,14 mm2 -0,75 mm2 (AWG 26-AWG 20)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 100 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 3)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)5 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次Contact resistanceMaterial Kontakt-Material of contactKontaktoberfl?cheSiehe Crimpkontakte Seite 204./See crimp contacts page 204.Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing
+Einzelteildarstellung
+Component part drawing
+
+Kabelsteckverbinder mit L?t?senring
+Cable connectors with solder eye ring
+
+Kabelsteckverbinder mit Kabelklemme
+Cable connectors with cable clamp
+
+Gewindering Stecker male ring nut
+Kabelsteckverbinder mit Crimpanschluss
+Cable connectors with crimp connection
+
+Kennlinie
+Rating
+
+Schirmd?mpfungskurve nach DIN 47250-6 f邦r Kabelsteckverbinder mit Kabelklemme
+(Kabeltyp IEEE 802.3)
+Schirmd?mpfung [dB]
+	Attenuation curve according to DIN 47250-6	Attenuation [dB]
+
+Frequence [MHz]
+Miniatur Serie 680
+Miniature 680 Series
+53
+	66	
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm09 0301 00 0209 0301 09 0226-8 mm09 0301 02 0209 0301 92 023 DIN4-6 mm09 0305 00 0309 0305 09 033 DIN6-8 mm09 0305 02 0309 0305 92 0344-6 mm09 0309 00 0409 0309 09 0446-8 mm09 0309 02 0409 0309 92 0454-6 mm09 0313 00 0509 0313 09 0556-8 mm09 0313 02 0509 0313 92 055 (Stereo)4-6 mm09 0317 00 0509 0317 09 055 (Stereo)6-8 mm09 0317 02 0509 0317 92 056 DIN4-6 mm09 0321 00 0609 0321 09 066 DIN6-8 mm09 0321 02 0609 0321 92 0674-6 mm09 0325 00 0709 0325 09 0776-8 mm09 0325 02 0709 0325 92 077 DIN4-6 mm09 1581 00 07-7 DIN6-8 mm--8 DIN4-6 mm09 0571 00 0809 0571 09 088 DIN6-8 mm09 0571 02 0809 0571 92 08124-6 mm-09 0329 00 12126-8 mm-09 0329 02 12144-6 mm-09 0341 00 14146-8 mm-09 0341 02 14164-6 mm-09 0337 00 16166-8 mm-09 0337 02 16194-6 mm-09 0343 00 19196-8 mm-09 0343 02 19244-6 mm--246-8 mm-09 0345 02 24Technische Daten / Specifications
+
+1) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+
+	Miniatur Serie 680	M16  IP40
+Miniature 680 Series
+	63	50
+
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm09 0302 00 0209 0302 09 0226-8 mm09 0302 02 0209 0302 92 023 DIN4-6 mm09 0306 00 0309 0306 09 033 DIN6-8 mm09 0306 02 0309 0306 92 0344-6 mm09 0310 00 0409 0310 09 0446-8 mm09 0310 02 0409 0310 92 0454-6 mm09 0314 00 0509 0314 09 0556-8 mm09 0314 02 0509 0314 92 055 (Stereo)4-6 mm09 0318 00 0509 0318 09 055 (Stereo)6-8 mm09 0318 02 0509 0318 92 056 DIN4-6 mm09 0322 00 0609 0322 09 066 DIN6-8 mm09 0322 02 0609 0322 92 0674-6 mm09 0326 00 0709 0326 09 0776-8 mm09 0326 02 0709 0326 92 077 DIN4-6 mm09 1582 00 07-7 DIN6-8 mm--8 DIN4-6 mm09 0572 00 0809 0572 09 088 DIN6-8 mm09 0572 02 0809 0572 92 08124-6 mm-09 0330 00 12126-8 mm-09 0330 02 12144-6 mm-09 0342 00 14146-8 mm-09 0342 02 14164-6 mm-09 0338 00 16166-8 mm-09 0338 02 16194-6 mm-09 0344 00 19196-8 mm-09 0344 02 19244-6 mm--246-8 mm-09 0346 02 24Technische Daten / Specifications
+
+1) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+Miniatur Serie 680
+Miniature 680 Series
+
+Kabeldose
+Female cable connector
+
+
+
+
+Ma?zeichnung / Drawing
+	31	31
+
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm09 0133 70 0209 0133 79 0226-8 mm09 0133 72 0209 0133 78 023 DIN4-6 mm09 0135 70 0309 0135 79 033 DIN6-8 mm09 0135 72 0309 0135 78 0344-6 mm09 0137 70 0409 0137 79 0446-8 mm09 0137 72 0409 0137 78 0454-6 mm09 0139 70 0509 0139 79 0556-8 mm09 0139 72 0509 0139 78 055 (Stereo)4-6 mm09 0141 70 0509 0141 79 055 (Stereo)6-8 mm09 0141 72 0509 0141 78 056 DIN4-6 mm09 0143 70 0609 0143 79 066 DIN6-8 mm09 0143 72 0609 0143 78 0674-6 mm09 0145 70 0709 0145 79 0776-8 mm09 0145 72 0709 0145 78 077 DIN4-6 mm09 0177 70 07-7 DIN6-8 mm--8 DIN4-6 mm09 0153 70 0809 0153 79 088 DIN6-8 mm09 0153 72 0809 0153 78 08124-6 mm-09 0147 70 12126-8 mm-09 0147 72 12144-6 mm-09 0161 70 14146-8 mm-09 0161 72 14164-6 mm-09 0185 70 16166-8 mm-09 0185 72 16194-6 mm-09 0163 70 19196-8 mm-09 0163 72 19244-6 mm--246-8 mm-09 0165 72 24Technische Daten / Specifications
+
+1) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+	Miniatur Serie 682	 M16  IP40
+Miniature 682 Series
+
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm99 0133 10 02-26-8 mm99 0133 12 02-3 DIN4-6 mm99 0135 10 03-3 DIN6-8 mm99 0135 12 03-44-6 mm99 0137 10 04-46-8 mm99 0137 12 04-54-6 mm99 0139 10 05-56-8 mm99 0139 12 05-5 (Stereo)4-6 mm99 0141 10 05-5 (Stereo)6-8 mm99 0141 12 05-6 DIN4-6 mm99 0143 10 06-6 DIN6-8 mm99 0143 12 06-74-6 mm99 0145 10 07-76-8 mm99 0145 12 07-7 DIN4-6 mm99 0177 10 07-7 DIN6-8 mm--8 DIN4-6 mm99 0153 10 08-8 DIN6-8 mm99 0153 12 08-124-6 mm-99 0147 10 12126-8 mm-99 0147 12 12144-6 mm-99 0161 10 14146-8 mm-99 0161 12 14194-6 mm-99 0163 10 19196-8 mm-99 0163 12 19244-6 mm--246-8 mm-99 0165 12 24Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN12141924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartl?ten/solderTerminationAnschlussquerschnitt max. 0,75 mm2 (max. AWG 20)max. 0,25 mm2 (max. AWG 24)0,14 mm2 (26)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 4)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuZn (Messing/brass)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?usePAMaterial of housing
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm09 0134 70 02-26-8 mm09 0134 72 02-3 DIN4-6 mm09 0136 70 0309 0136 79 033 DIN6-8 mm09 0136 72 0309 0136 78 0344-6 mm09 0138 70 0409 0138 79 0446-8 mm09 0138 72 0409 0138 78 0454-6 mm09 0140 70 0509 0140 79 0556-8 mm09 0140 72 0509 0140 78 055 (Stereo)4-6 mm09 0142 70 0509 0142 79 055 (Stereo)6-8 mm09 0142 72 05-6 DIN4-6 mm09 0144 70 0609 0144 79 066 DIN6-8 mm09 0144 72 0609 0144 78 0674-6 mm09 0146 70 0709 0146 79 0776-8 mm09 0146 72 0709 0146 78 077 DIN4-6 mm09 0178 70 07-7 DIN6-8 mm--8 DIN4-6 mm09 0154 70 0809 0154 79 088 DIN6-8 mm09 0154 72 0809 0154 78 08124-6 mm-09 0148 70 12126-8 mm-09 0148 72 12144-6 mm-09 0162 70 14146-8 mm-09 0162 72 14164-6 mm-09 0186 70 16166-8 mm-09 0186 72 16194-6 mm-09 0164 70 19196-8 mm-09 0164 72 19244-6 mm--246-8 mm-09 0166 72 24Technische Daten / Specifications
+
+1) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+	Miniatur Serie 682	 M16  IP40
+Miniature 682 Series
+
+Ma?zeichnung / Drawing
+
+Bestell-Daten / Order Data
+Polzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsKabeldurchlass Cable outletVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts24-6 mm99 0134 10 02-26-8 mm99 0134 12 02-3 DIN4-6 mm99 0136 10 03-3 DIN6-8 mm99 0136 12 03-44-6 mm99 0138 10 04-46-8 mm99 0138 12 04-54-6 mm99 0140 10 05-56-8 mm99 0140 12 05-5 (Stereo)4-6 mm99 0142 10 05-5 (Stereo)6-8 mm99 0142 12 05-6 DIN4-6 mm99 0144 10 06-6 DIN6-8 mm99 0144 12 06-74-6 mm99 0146 10 07-76-8 mm99 0146 12 07-7 DIN4-6 mm--7 DIN6-8 mm--8 DIN4-6 mm99 0154 10 08-8 DIN6-8 mm99 0154 12 08-124-6 mm-99 0148 10 12126-8 mm-99 0148 12 12144-6 mm-99 0162 10 14146-8 mm-99 0162 12 14194-6 mm-99 0164 10 19196-8 mm-99 0164 12 19244-6 mm--246-8 mm-99 0166 12 24Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN12141924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartl?ten/solderTerminationAnschlussquerschnitt max. 0,75 mm2 (max. AWG 20)max. 0,25 mm2 (max. AWG 24)0,14 mm2 (26)Wire gaugeKabeldurchlass4-6 mm (PG 7), 6-8 mm (PG 9)Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?usePAMaterial of housing1) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+Steckereinsatz male insert
+Buchseneinsatz female insert
+Winkelsteckverbinder, Metallausf邦hrung
+Angled connectors, metal version
+DruckschraubeDruckschraube pressing screwpressing screw
+Geh?useGeh?use housinghousing
+GewinderingGewindering locking ringlocking ring
+	Zylinderschraube	Zylinderschraube
+	fillister head screw	fillister head screw
+
+
+
+Ma?zeichnung / Drawing
+
+Bestell-Daten / Order Data
+Polzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts209 0303 00 0209 0303 09 02209 0303 80 0209 0303 89 023 DIN09 0307 00 0309 0307 09 033 DIN09 0307 80 0309 0307 89 03409 0311 00 0409 0311 09 04409 0311 80 0409 0311 89 04509 0315 00 0509 0315 09 05509 0315 80 0509 0315 89 055 (Stereo)09 0319 00 0509 0319 09 055 (Stereo)09 0319 80 05-6 DIN09 0323 00 0609 0323 09 066 DIN09 0323 80 0609 0323 89 06709 0327 00 0709 0327 09 07709 0327 80 0709 0327 89 077 DIN09 1583 00 07-7 DIN--8 DIN09 0473 00 0809 0473 09 088 DIN09 0473 80 0809 0473 89 0812-09 0331 00 1212-09 0331 80 1214-09 0053 00 1414-09 0053 80 1416-09 0339 00 1616-09 0339 80 1619-09 0335 00 1919-09 0335 80 1924-09 0197 00 2424-09 0197 80 24Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN1214161924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartl?ten/solderTerminationAnschlussquerschnitt max. 0,75 mm2 (max. AWG 20)max. 0,25 mm2 (max. AWG 24)0,14 mm2 (26)Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuZn (Messing/brass)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useZink Druckguss vernickelt/zinc diecasting nickel platedMaterial of housingDrilling schemes see page 205
+
+Ma?zeichnung / Drawing
+	5-8 pol.	12 pol.
+	16,5	15	9,6	15	9,4
+Bestell-Daten / Order Data
+Polzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts209 0303 90 0209 0303 99 02509 0315 290 05-3 DIN09 0307 90 0309 0307 99 03409 0311 90 0409 0311 99 04509 0315 90 0509 0315 99 056 DIN09 0323 290 06-5 (Stereo)09 0319 90 0509 0319 99 056 DIN09 0323 90 0609 0323 99 06709 0327 90 0709 0327 99 077 DIN--8 DIN09 0473 290 08-8 DIN09 0473 90 08-12-09 0331 90 1214-09 0053 90 1412-09 0331 290 1216-09 0339 90 1619-09 0335 90 1924-09 0197 90 24Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN1214161924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussarttauchl?ten/dip solderTerminationAnschlussquerschnitt -Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuZn (Messing/brass)/CuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useZink Druckguss vernickelt/zinc diecasting nickel plated, CuZn (Messing, vernickelt/brass, nickel plated)Material of housing1) 
+Crimp- und Bandkontakte siehe Seite 206 Crimp and ribbon contacts see page 206
+
+Crimp- und Bandkontakte siehe Seite 206 Crimp and ribbon contacts see page 206
+
+
+
+Ma?zeichnung / Drawing
+
+Bestell-Daten / Order Data
+Polzahl ContactsBestell-Nr.
+Ordering-No.Polzahl ContactsBestell-Nr.
+Ordering-No.409 0311 700 04409 0311 780 04509 0315 700 05509 0315 780 056 DIN09 0323 700 066 DIN09 0323 780 06709 0327 700 07709 0327 780 078 DIN09 0473 700 088 DIN09 0473 780 08Technische Daten / Specifications
+Polzahl456 DIN7 8 DINNumber of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartcrimpen/crimpTerminationAnschlussquerschnitt 4-6 pol. 0,14 mm2 -1,0 mm2 (AWG 26-AWG 18), 7+8 pol. 0,14 mm2 -0,75 mm2 (AWG 26-AWG 20)Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)6 A5 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次Contact resistanceMaterial Kontakt-Material of contactKontaktoberfl?cheSiehe Crimpkontakte Seite 204./See crimp contacts page 204.Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housingMa?zeichnung / Drawing
+	21,4	L	21,4	L
+	1 min.	1 min.
+	3,5 max.	3,5 max.
+Bestell-Daten / Order Data
+Polzahl ContactsBestell-Nr.
+Ordering-No.Polzahl ContactsBestell-Nr.
+Ordering-No.409 0311 702 04409 0311 782 04509 0315 702 05509 0315 782 056 DIN09 0323 702 066 DIN09 0323 782 06709 0327 702 07709 0327 782 078 DIN09 0473 702 088 DIN09 0473 782 08Technische Daten / Specifications
+Polzahl456 DIN7 8 DINNumber of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartLitzen/single wiresTerminationAnschlussquerschnitt AWG 22/7 (0,35 mm2)Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 30 ～CLower temperatureBemessungsspannung300 V (32 V)100 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V1200 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)5 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing1) 
+Polzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsEinreihig - vergoldete Kontakte
+Single row - gold plated contactsDoppelreihig - vergoldete Kontakte Double row - gold plated contacts709 0327 65 07-1209 0331 65 1209 0331 66 128 DIN09 0473 65 08-Technische Daten / Specifications
+Polzahl78 DIN12Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussarttauchl?ten/dip solderTerminationAnschlussquerschnitt -Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)5 A2 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次≒ 3 m次Contact resistanceMaterial KontaktCuZn (Messing/brass)Material of contactKontaktoberfl?cheAg (Silber/silver)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useZink Druckguss vernickelt/zinc diecasting nickel platedMaterial of housingMa?zeichnung / Drawing
+
+Bestell-Daten / Order Data
+Polzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts209 0304 00 0209 0304 09 0212-09 0332 00 123 DIN09 0308 00 0309 0308 09 03409 0312 00 0409 0312 09 0414-09 0054 00 14509 0316 00 0509 0316 09 0516-09 0340 00 165 (Stereo)09 0320 00 0509 0320 09 056 DIN09 0324 00 0609 0324 09 0619-09 0336 00 19709 0328 00 0709 0328 09 077 DIN09 1584 00 07-24-09 0198 00 248 DIN09 0474 00 0809 0474 09 08Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN1214161924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartl?ten/solderTerminationAnschlussquerschnitt max. 0,75 mm2 (max. AWG 20)max. 0,25 mm2 (max. AWG 24)0,14 mm2 (26)Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useZink Druckguss vernickelt/zinc diecasting nickel platedMaterial of housing1) 
+Ma?zeichnung / Drawing
+
+Bestell-Daten / Order Data
+Polzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts209 0304 80 0209 0304 89 0212-09 0332 80 123 DIN09 0308 80 0309 0308 89 03409 0312 80 0409 0312 89 0414-09 0054 80 14509 0316 80 0509 0316 89 0516-09 0340 80 165 (Stereo)09 0320 80 0509 0320 89 056 DIN09 0324 80 0609 0324 89 0619-09 0336 80 19709 0328 80 0709 0328 89 077 DIN--24-09 0198 80 248 DIN09 0474 80 0809 0474 89 08Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN1214161924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartl?ten/solderTerminationAnschlussquerschnitt max. 0,75 mm2 (max. AWG 20)max. 0,25 mm2 (max. AWG 24)0,14 mm2 (26)Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useZink Druckguss vernickelt/zinc diecasting nickel platedMaterial of housingMa?zeichnung / Drawing
+	7,6 4,9	
+Bestell-Daten / Order Data
+Polzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contacts209 0304 90 0209 0304 99 0212-09 0332 90 123 DIN09 0308 90 0309 0308 99 03409 0312 90 0409 0312 99 0414-09 0054 90 14509 0316 90 0509 0316 99 0516-09 0340 90 165 (Stereo)09 0320 90 0509 0320 99 056 DIN09 0324 90 0609 0324 99 0619-09 0336 90 19709 0328 90 0709 0328 99 077 DIN--24-09 0198 90 248 DIN09 0474 90 0809 0474 99 08Technische Daten / Specifications
+Polzahl23 DIN45 5 (Stereo)6 DIN77 DIN8 DIN1214161924Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussarttauchl?ten/dip solderTerminationAnschlussquerschnitt -Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 A1 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)/Au (Gold/gold)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useZink Druckguss vernickelt/zinc diecasting nickel platedMaterial of housing1) 
+Ma?zeichnung / Drawing
+
+Bestell-Daten / Order Data
+
+Polzahl ContactsBestell-Nr.
+Ordering-No.3 DIN09 0308 290 03409 0312 290 04509 0316 290 056 DIN09 0324 290 06709 0328 290 078 DIN09 0474 290 081209 0332 290 12
+Technische Daten / Specifications
+Polzahl3 DIN456 DIN78 DIN12Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussarttauchl?ten/dip solderTerminationAnschlussquerschnitt -Wire gaugeKabeldurchlass-Cable outletSchutzartIP67Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)7 A6 A5 A3 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次/≒ 3 m次≒ 3 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useZink Druckguss vernickelt/zinc diecasting nickel platedMaterial of housingMa?zeichnung / Drawing
+
+Bestell-Daten / Order Data
+Polzahl ContactsBestell-Nr.
+Ordering-No.Polzahl ContactsBestell-Nr.
+Ordering-No.409 0312 700 04409 0312 780 04509 0316 700 05509 0316 780 056 DIN09 0324 700 066 DIN09 0324 780 06709 0328 700 07709 0328 780 078 DIN09 0474 700 088 DIN09 0474 780 08Technische Daten / Specifications
+Polzahl456 DIN7 8 DINNumber of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartcrimpen/crimpTerminationAnschlussquerschnitt 4-6 pol. 0,14 mm2 -1,0 mm2 (AWG 26-AWG 18), 7+8 pol. 0,14 mm2 -0,75 mm2 (AWG 26-AWG 20)Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)125 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V800 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)6 A5 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次Contact resistanceMaterial Kontakt-Material of contactKontaktoberfl?cheSiehe Crimpkontakte Seite 204./See crimp contacts page 204.Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing1) 
+Ma?zeichnung / Drawing
+
+Bestell-Daten / Order Data
+Polzahl ContactsBestell-Nr.
+Ordering-No.Polzahl ContactsBestell-Nr.
+Ordering-No.409 0312 702 04409 0312 782 04509 0316 702 05509 0316 782 056 DIN09 0324 702 066 DIN09 0324 782 06709 0328 702 07709 0328 782 078 DIN09 0474 702 088 DIN09 0474 782 08Technische Daten / Specifications
+Polzahl456 DIN7 8 DINNumber of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussartLitzen/single wiresTerminationAnschlussquerschnitt AWG 22/7 (0,35 mm2)Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 30 ～CLower temperatureBemessungsspannung300 V (32 V)100 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V1200 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)5 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useCuZn (Messing, vernickelt/brass, nickel plated)Material of housing	einreihig/single-row	doppelreihig/double-row
+	12,5	11,7	11,7
+Bestell-Daten / Order Data
+Polzahl ContactsVersilberte Kontakte Silver plated contactsVergoldete Kontakte Gold plated contactsPolzahl ContactsEinreihig - vergoldete Kontakte
+Single row - gold plated contactsDoppelreihig - vergoldete Kontakte Double row - gold plated contacts709 0328 65 07-1209 0332 65 1209 0332 66 128 DIN09 0474 65 08-Technische Daten / Specifications
+Polzahl78 DIN12Number of contactsSteckverbinder Verriegelungschrauben/screwConnector locking systemAnschlussarttauchl?ten/dip solderTerminationAnschlussquerschnitt -Wire gaugeKabeldurchlass-Cable outletSchutzartIP40Degree of protectionMechanische Lebensdauer> 500 Steckzyklen/> 500 mating cyclesMechanical operationObere Grenztemperatur+ 85 ～CUpper temperatureUntere Grenztemperatur- 40 ～CLower temperatureBemessungsspannung250 V (32 V)60 V (32 V)Rated voltageBemessungs-Sto?spannung1500 V500 VRated impulse voltageVerschmutzungsgrad1 (2) 1)Pollution degree邦berspannungskategorieI (II) 1)Overvoltage categorieIsolierstoffgruppeIIIMaterial groupBemessungsstrom (40～C)5 A2 ARated current (40 ～C)Durchgangswiderstand≒ 5 m次≒ 3 m次Contact resistanceMaterial KontaktCuSn (Bronze/bronze)Material of contactKontaktoberfl?cheAg (Silber/silver)Au (Gold/gold)Contact platingMaterial Kontaktk?rperPBTMaterial of contact bodyMaterial Geh?useZink Druckguss vernickelt/zinc diecasting nickel platedMaterial of housing1) 
+
+Zeichnungen
+Drawings
+15
+
+XY1-3,500,0020,003,5033,500,003 pol (DIN 41524)
+3 contacts (DIN 41524)
+
+XY1-3,32-1,082-2,052,8332,052,8343,32-1,084 pol 
+4 contacts
+
+XY1-3,03-1,752-3,031,7530,003,5043,031,7553,03-1,755 pol
+XY13,03-1,7523,031,7530,003,504-3,031,755-3,03-1,7560,000,00XY13,500,0020,003,503-3,500,0042,472,475-2,472,47XY13,03-1,7523,031,7530,003,504-3,031,755-3,03-1,75XY13,32-1,0822,052,833-2,052,834-3,32-1,08XY13,500,0020,003,503-3,500,005 contacts
+
+XY1-3,500,0020,003,5033,500,004-2,472,4752,472,475 pol Stereo (DIN 41524)
+5 contacts stereo (DIN 41524)
+
+XY1-3,03-1,752-3,031,7530,003,5043,031,7553,03-1,7560,000,006 pol (DIN 45322)
+6 contacts (DIN 45322) Polbilder
+Contact arrangements
+7 pol 
+7 contacts
+7 pol (DIN 45329)
+7 contacts (DIN 45329)
+8 pol (DIN 45326)
+8 contacts (DIN 45326)
+12 pol 
+12 contacts
+14 pol 
+14 contacts
+
+Stifteinsatz (Steckseite) Male insert (mating side)
+
+XY1-1,75-3,032-3,500,003-1,753,0341,753,0353,500,0061,75-3,0370,000,00
+XY13,500,0020,003,503-3,500,0042,472,475-2,472,4762,47-2,477-2,47-2,47
+XY13,500,0020,003,503-3,500,0042,472,475-2,472,4762,47-2,477-2,47-2,4780,00-0,70
+XYA0,44-3,45B-2,29-3,61C-4,10-1,21D-3,201,34E-2,713,59F-0,413,45G2,293,61H4,101,21J3,20-1,34K2,71-3,59L-2,00-1,51M2,001,51XYA-2,50-4,00C-4,250,00E-2,304,00G2,304,00J4,250,00L2,50-4,00M-0,95-2,40N-2,40-0,95O-2,400,95P-0,952,40R0,952,40S2,400,95T2,40-0,95U0,95-2,40
+Buchseneinsatz (Steckseite) Female insert (mating side)
+
+XY11,75-3,0323,500,0031,753,034-1,753,035-3,500,006-1,75-3,0370,000,00
+XY1-3,500,0020,003,5033,500,004-2,472,4752,472,476-2,47-2,4772,47-2,47
+XY1-3,500,0020,003,5033,500,004-2,472,4752,472,476-2,47-2,4772,47-2,4780,00-0,70
+XYA-0,44-3,45B2,29-3,61C4,10-1,21D3,201,34E2,713,59F0,413,45G-2,293,61H-4,101,21J-3,20-1,34K-2,71-3,59L-2,00-1,51M-2,001,51XYA2,50-4,00C4,250,00E2,304,00G-2,304,00J-4,250,00L-2,504,00M0,95-2,40N2,40-0,95O2,400,95P0,952,40R-0,952,40S-2,400,95T-2,40-0,95U-0,95-2,40
+
+XYA-2,50-4,00B-4,00-2,25C-4,250,00D-4,002,40E-2,304,00F0,004,25G2,304,00H4,002,40I4,250,00K4,00-2,25L2,50-4,00M0,00-2,60N-2,45-0,80O-1,502,10P1,502,10R2,40-0,80
+XYA2,50-4,00B4,00-2,25C4,250,00D4,002,40E2,304,00F0,004,25G-2,304,00H-4,002,40I-4,250,00K-4,00-2,25L-2,50-4,00M0,00-2,60N2,45-0,80O1,502,10P-1,502,10R-2,40-0,8019 pol 
+19 contacts
+
+XY14,00-1,5024,000,3534,002,2042,403,1052,401,3062,40-0,5572,40-2,4080,80-3,3090,80-1,50100,800,35110,802,20120,804,0013-0,803,1014-0,801,3015-0,80-0,5516-0,80-2,4017-2,40-3,3018-2,40-1,5019-2,400,3520-2,402,2021-2,404,0022-4,001,3023-4,00-0,5524-4,00-2,40
+XY1-4,00-1,502-4,000,353-4,002,204-2,403,105-2,401,306-2,40-0,557-2,40-2,408-0,80-3,309-0,80-1,5010-0,800,3511-0,802,2012-0,804,00130,803,10140,801,30150,80-0,55160,80-2,40172,40-3,30182,40-1,50192,400,35202,402,20212,404,00224,001,30234,00-0,55244,00-2,4024 pol 
+24 contacts
+
+
+4 contacts
+
+5 pol
+5 contacts
+6 pol (DIN 45322)
+6 contacts (DIN 45322)
+7 pol
+7 contacts
+
+8 pol (DIN 45326)
+8 contacts (DIN 45326)
+12 pol
+12 contacts
+	6,06	6,06
+
+4,95	7	4,95	7
+
+
+Einzelkontakt (Stift), VPE 50 St邦ck
+Single contact (Male), PU 50 pieces Abbildung / Figure
+
+Einzelkontakt (Buchse), VPE 50 St邦ck Single contact (Female), PU 50 pieces
+
+
+	20,5	Crimpma?e, H?henma? (Richtwerte)	14,3	Crimpma?e, H?henma? (Richtwerte)
+Kontakt-? Pin-?Isolierung-? Insulating-?AQ mm2 
+WG mm2Aufmachung
+PiecesSt邦ck PiecesSilber (Ag) Silver (Ag)Gold (Au) Gold (Au)1,5 mm1,0-2,0 mm0,14 - 0,25Einzel/single5061 0799 085 0061 0799 098 00Band/strip20065 0799 085 0165 0799 098 01Band/strip200065 0799 085 0265 0799 098 02Band/strip400065 0799 085 0465 0799 098 04Band/strip10.00065 0799 085 1065 0799 098 100,35 - 0,5Einzel/single5061 0795 085 0061 0795 098 00Band/strip20065 0795 085 0165 0795 098 01Band/strip200065 0795 085 0265 0795 098 02Band/strip400065 0795 085 0465 0795 098 04Band/strip10.00065 0795 085 1065 0795 098 101,6-2,1 mm0,75 - 1,0Einzel/single5061 0796 085 0061 0796 098 00Band/strip20065 0796 085 0165 0796 098 01Band/strip200065 0796 085 0265 0796 098 02Band/strip400065 0796 085 0465 0796 098 04Band/strip10.00065 0796 085 1065 0796 098 10Kontakt-? Pin-?Isolierung-? Insulating-?AQ mm2 
+WG mm2Aufmachung
+PiecesSt邦ck PiecesSilber (Ag) Silver (Ag)Gold (Au) Gold (Au)1,5 mm1,0-2,0 mm0,14 - 0,25Einzel/single5061 0800 085 0061 0800 098 00Band/strip20065 0800 085 0165 0800 098 01Band/strip200065 0800 085 0265 0800 098 02Band/strip400065 0800 085 0465 0800 098 04Band/strip10.00065 0800 085 1065 0800 098 100,35 - 0,5Einzel/single5061 0797 085 0061 0797 098 00Band/strip20065 0797 085 0165 0797 098 01Band/strip200065 0797 085 0265 0797 098 02Band/strip400065 0797 085 0465 0797 098 04Band/strip10.00065 0797 085 1065 0797 098 101,6-2,1 mm0,75 - 1,0Einzel/single5061 0798 085 0061 0798 098 00Band/strip20065 0798 085 0165 0798 098 01Band/strip200065 0798 085 0265 0798 098 02Band/strip400065 0798 085 0465 0798 098 04Band/strip10.00065 0798 085 1065 0798 098 10Anschlussquerschnitt mm2 0,14 mm2 - 0,25 mm20,35 mm2 - 0,5 mm20,75 mm2 - 1,0 mm2Wire gauge mm2 Leiterquerschnitt mm20,14 mm2 (AWG 26)0,25 mm2 (AWG 24)0,35 mm2 (AWG 22)0,5 mm2 (AWG 20)0,75 mm2 (AWG 20-18)1,0 mm2 (AWG 18-16)Conductor cross section mm2Isolierung ?? 1,0-2,0 mm? 1,6-2,1 mmInsulation ?Crimpma?e (Richtwert)0,9-1,0 mm0,92-1,09 mm0,93-1,1 mm0,95-1,12 mm1,2-1,33 mm1,3-1,45 mmCrimp measures (standard value)Crimpauszugskraft nach DIN EN 60352-224 N42 N53 N73 N90 N110 NCrimp extraction force acc. to DIN EN 60352-2	Crimp measures, hight dimension (standard value)	Crimp measures, hight dimension (standard value)
+hmax. mmhmax. mm
+Technische Daten 
+Specifications 
+
+Zubeh?r Serie 581 ﹞ 680 ﹞ 682
+Accessories 581 ﹞ 680 ﹞ 682 Series
+Bestell-Daten / Order Data	Bestell-Daten / Order Data
+Bestell-Nr.
+Ordering-No.Bestell-Nr.
+Ordering-No.66 0001 014 100	67 0001 014 100
+
+
+Montageschl邦ssel f邦r Flanschsteckverbinder
+Mounting spanner for panel mount connectors
+Abbildung / Figure
+
+Ma?zeichnung / Drawing
+	1,5	45
+
+Bestell-Nr.
+Ordering-No.Bestell-Nr.
+Ordering-No.Bestell-Daten / Order Data
+07 0010 001
+Viereckflansch f邦r Flanschsteckverbinder, IP40
+Rectangular flange for panel mount connectors, IP40
+
+
+Bestell-Daten / Order Data
+04 0106 001
+
+Sechskantmutter	Ringmutter f邦r Befestigungsgewinde Hexagonal nut	Ring nut for fixing thread
+Abbildung / Figure
+
+
+Ma?zeichnung / Drawing
+	M18 x 0,75	2,5	5
+
+Bestell-Daten / Order Data
+Bestell-Nr.
+Ordering-No.St?rke
+ThicknessBestell-Nr.
+Ordering-No.2,5 mm01 0146 0015 mm01 5006 00101 0010 001     Mit R?ndel/with knurled screw
+L?t?senring, IP40	Blindstopfen, IP67 Solder eye ring, IP40	Blind plug, IP67
+
+Abbildung / Figure
+
+
+Ma?zeichnung / Drawing
+	13	12
+Bestell-Daten / Order Data
+H?he HeightBestell-Nr.
+Ordering-No.12 mm08 2668 000 001Bestell-Nr.
+Ordering-No.04 0183 009
+
+Ma?zeichnung / Drawing
+	? 19	? 20
+
+Bestell-Daten / Order Data
+H?he HeightBestell-Nr.
+Ordering-No.H?he HeightBestell-Nr.
+Ordering-No.9,5 mm02 0054 00002 0055 001
+Distanzh邦lse f邦r Flanschsteckverbinder, Tauchl?tausf邦hrung, 2-19 pol	Montageschl邦ssel f邦r Kabelsteckverbinder
+Distance shell for panel mount connectors, dip solder version, 2-19 contacts	Mounting spanner for cable connectors
+
+Zubeh?r Serie 581 ﹞ 680 ﹞ 682
+Accessories 581 ﹞ 680 ﹞ 682 Series M16  IP40Abbildung / Figure
+
+
+Ma?zeichnung / Drawing
+? 21,5
+Leiterplattendicke: max. 1,5 mm
+Thickness of PCB: max. 1,5 mm
+Bestell-Daten / Order Data
+Bestell-Nr.
+Ordering-No.Bestell-Nr.
+Ordering-No.02 0007 000	02 1785 000
+L?sewerkzeug f邦r Kontakte
+
+
+Bestell-Nr.
+Ordering-No.07 0090 000
+
+1 ) Erl?uterung der Schutzarten siehe technische Informationen./ 1) Explanation of protection standards see technical information. 
+2 ) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+3 ) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+4 ) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+
+
+
+Miniatur Serie 581	M16  IP40
+Miniature 581 Series
+
+
+168
+
+169	Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 	In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+
+
+
+167
+
+Miniatur Serie 581	 M16  IP40
+Miniature 581 Series
+
+
+Miniatur Serie 581	M16  IP40
+Miniature 581 Series
+
+
+168
+
+169	Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 	In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+
+Miniatur Serie 581	 M16  IP40
+Miniature 581 Series
+
+
+168
+
+	Miniatur Serie 581	 M16  IP40
+Miniature 581 Series
+
+
+M16  IP40
+
+
+168
+
+167
+
+Miniatur Serie 581	M16  IP40
+Miniature 581 Series
+
+
+167
+
+
+
+M16  IP40
+
+
+168
+
+167
+
+
+
+
+168
+
+
+
+Miniatur Serie 682	M16  IP40
+Miniature 682 Series
+
+
+168
+
+167
+
+Miniatur Serie 682	M16  IP40
+Miniature 682 Series
+
+
+167
+
+	Miniatur Serie 581 ﹞ 680 ﹞ 682	 M16  IP40
+Miniature 581 ﹞ 680 ﹞ 682 Series
+
+
+Miniatur Serie 581 ﹞ 680 ﹞ 682	M16  IP40
+Miniature 581 ﹞ 680 ﹞ 682 Series
+
+
+	Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.	190
+
+189	1) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+
+Miniatur Serie 581 ﹞ 680 ﹞ 682	M16  IP40
+Miniature 581 ﹞ 680 ﹞ 682 Series
+
+
+189	1) Bei Verschm.grad 2, 邦bersp.kat. II reduzierte Bemessungsspannung 32 V./ 1) In case of pollution degree 2, overvoltage category II rated voltage is reduced to 32 V.
+
+	Miniatur Serie 581 ﹞ 680 ﹞ 682	 M16  IP40
+Miniature 581 ﹞ 680 ﹞ 682 Series
+
+
+Miniatur Serie 581 ﹞ 680 ﹞ 682	M16  IP40
+Miniature 581 ﹞ 680 ﹞ 682 Series
+
+
+202
+
+201
+
+Miniatur Serie 581 ﹞ 680 ﹞ 682	M16  IP40
+Miniature 581 ﹞ 680 ﹞ 682 Series
+
+
+201
+
+Zubeh?r Serie 581 ﹞ 680 ﹞ 682	 M16  IP40
+Accessories 581 ﹞ 680 ﹞ 682 Series
+
+
+Miniatur Serie 581 ﹞ 680 ﹞ 682	M16  IP40
+Miniature 581 ﹞ 680 ﹞ 682 Series
+
+
+168
+
+205
+
+Miniatur Serie 581 ﹞ 680 ﹞ 682	 M16  IP40
+Miniature 581 ﹞ 680 ﹞ 682 Series
+
+
+168
+
+	Zubeh?r Serie 581 ﹞ 680 ﹞ 682	 M16  IP40
+Accessories 581 ﹞ 680 ﹞ 682 Series
+
+
+
+
+
+168
+
+167
+
+M16  IP40
+
+
+167
+

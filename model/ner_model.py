@@ -6,7 +6,7 @@ import tensorflow as tf
 from .data_utils import minibatches, pad_sequences, get_chunks
 from .general_utils import Progbar
 from .base_model import BaseModel
-
+from .attention import attention
 
 class NERModel(BaseModel):
     """Specialized class of Model for NER"""
@@ -181,6 +181,11 @@ class NERModel(BaseModel):
             pred = tf.matmul(output, W) + b
             self.logits = tf.reshape(pred, [-1, nsteps, self.config.ntags])
 
+        # use attention model
+        with tf.variable_scope('Attention_layer'):
+            output, alphas = attention(output, self.config.ATTENTION_SIZE, return_alphas=True)
+            tf.summary.histogram('alphas', alphas)
+
 
     def add_pred_op(self):
         """Defines self.labels_pred
@@ -297,7 +302,7 @@ class NERModel(BaseModel):
                 for k, v in metrics.items()])
         self.logger.info(msg)
 
-        return metrics["f1"]
+        return metrics["f1"], metrics["p"]
 
 
     def run_evaluate(self, test):
@@ -334,7 +339,7 @@ class NERModel(BaseModel):
         f1  = 2 * p * r / (p + r) if correct_preds > 0 else 0
         acc = np.mean(accs)
 
-        return {"acc": 100*acc, "f1": 100*f1}
+        return {"acc": 100*acc, "f1": 100*f1, "p": p*100, "r": r*100}
 
 
     def predict(self, words_raw):

@@ -75,7 +75,11 @@ class Config():
     # filename_test = "data/coNLL/eng/eng.testb.iob"
     # filename_train = "data/coNLL/eng/eng.train.iob"
 
-    filename_dev = filename_test = filename_train = "data/test.txt" # test
+    filename_dev = "CoNLL-2003/dev.txt"
+    filename_test = "CoNLL-2003/test.txt"
+    filename_train = "CoNLL-2003/train.txt"
+
+#     filename_dev = filename_test = filename_train = "data/test.txt" # test
 
     max_iter = None # if not None, max number of examples in Dataset
 
@@ -86,14 +90,14 @@ class Config():
 
     # training
     train_embeddings = False
-    nepochs          = 15
+    nepochs          = 100
     dropout          = 0.5
-    batch_size       = 20
+    batch_size       = 80
     lr_method        = "adam"
-    lr               = 0.001
+    lr               = 0.01
     lr_decay         = 0.9
-    clip             = -1 # if negative, no clipping
-    nepoch_no_imprv  = 3
+    clip             = 1 # if negative, no clipping
+    nepoch_no_imprv  = 10
 
     # model hyperparameters
     hidden_size_char = 100 # lstm on chars
@@ -102,3 +106,5 @@ class Config():
     # NOTE: if both chars and crf, only 1.6x slower on GPU
     use_crf = True # if crf, training is 1.7x slower on CPU
     use_chars = True # if char embedding, training is 3.5x slower on CPU
+
+    ATTENTION_SIZE = 50

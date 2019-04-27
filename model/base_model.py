@@ -111,6 +111,7 @@ class BaseModel(object):
 
         """
         best_score = 0
+        best_precision = 0
         nepoch_no_imprv = 0 # for early stopping
         self.add_summary() # tensorboard
 
@@ -118,14 +119,15 @@ class BaseModel(object):
             self.logger.info("Epoch {:} out of {:}".format(epoch + 1,
                         self.config.nepochs))
 
-            score = self.run_epoch(train, dev, epoch)
+            score, precision = self.run_epoch(train, dev, epoch)
             self.config.lr *= self.config.lr_decay # decay learning rate
 
             # early stopping and saving best parameters
-            if score >= best_score:
+            # if score >= best_score:
+            if precision >= best_precision:
                 nepoch_no_imprv = 0
                 self.save_session()
-                best_score = score
+                best_precision = precision
                 self.logger.info("- new best score!")
             else:
                 nepoch_no_imprv += 1
